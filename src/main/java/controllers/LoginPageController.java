@@ -1,4 +1,5 @@
-package org.example;
+package controllers;
 
 public class LoginPageController {
+
 }
